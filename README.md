@@ -25,7 +25,7 @@ I made this app/page because for me, it's the best way to have simple quick and 
 <li> click on <b>Create test token</b> and copy it</li><br>
 
 
-  <li>  paste it on <a href="https://virgile-fr.github.io/Raindrop-HomePage/">my own github page</a>  / OR / in the token.js file if you plan to use it on your own</li><br>
+  <li>  paste it on <a href="https://jpigla.github.io/Raindrop-HomePage/">my own github page</a>  / OR / in the token.js file if you plan to use it on your own</li><br>
 
 
 <li> and it's done ✅ you can set this page as your launchpage / new tab in your browser</li><br>

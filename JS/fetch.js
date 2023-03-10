@@ -21,7 +21,7 @@ function fetchcollection(collectionID) {
 }
 
 function fetchCardsIcons() {
-  fetch("https://api.raindrop.io/rest/v1/raindrops/0?search=❤️&perpage=50", {
+  fetch("https://api.raindrop.io/rest/v1/raindrops/0?search=bookmark&perpage=50", {
     method: "GET",
     headers: { Authorization: "Bearer " + token },
   })
@@ -36,7 +36,7 @@ function fetchCardsIcons() {
 }
 
 function fetchCardsCovers() {
-  fetch("https://api.raindrop.io/rest/v1/raindrops/0?search=❤️&perpage=50", {
+  fetch("https://api.raindrop.io/rest/v1/raindrops/0?search=bookmark&perpage=50", {
     method: "GET",
     headers: { Authorization: "Bearer " + token },
   })
